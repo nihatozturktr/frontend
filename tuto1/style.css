@@ -1,0 +1,52 @@
+h2{
+
+    color: aqua;
+    
+    background-color: blue;
+    
+    }
+    
+    .titel{
+    
+    background-color: brown;
+    
+    }
+    
+    #paragraaf1{
+    
+    background-color: aliceblue;
+    
+    }
+    
+    
+    
+    #paragraaf2{
+    
+    background-color: rgb(35, 93, 143);
+    
+    }
+    
+    .container{
+    
+    width: 400px;
+    
+    }
+    a:hover {
+        font-size: 30px;
+        color: red;
+
+    }
+.afbeelding{
+    
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;;
+}
+
+button{
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+
+}
