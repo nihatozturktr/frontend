@@ -48,5 +48,26 @@ button{
     height: 50px;
     width: 150px;
     background-color: aquamarine;
+    border-radius: 20px 10px;
+    
+/*  */
+}
+button hover{
+    background-color: red;
+    color:#ddd;
 
 }
+body{
+
+    background-image: url(https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?t=st=1655119377~exp=1655119977~hmac=268d39d6debc42b377dc9eaecd76db74d9735466794309b71f02c3cd44f749c3&w=900) ;
+background-repeat: no-repeat;
+}
+#paragraaf{
+    color:blue
+
+}
+#paragraaf2{
+    color
+    
+}
+
